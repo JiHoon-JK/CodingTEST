@@ -3,3 +3,7 @@
 
 ### 📌 Exercism 
 > https://exercism.io/
+
+
+### 🗂 정리
+https://juni-dev-log.tistory.com/category/CodingTest
